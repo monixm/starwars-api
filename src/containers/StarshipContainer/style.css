@@ -1,0 +1,10 @@
+.starship-info {
+  display: flex;
+  margin-left: 40px;
+  width: 100%;
+}
+
+.starship-container {
+  display: flex;
+  flex-direction: row;
+}
